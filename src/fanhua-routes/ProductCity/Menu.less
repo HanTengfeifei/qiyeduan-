@@ -1,0 +1,225 @@
+.container{
+  position: relative;
+  background: #EFF2F4;
+  font: normal 13px "宋体" !important;
+}
+body,div,ul,li,p,a,img{
+  padding: 0;
+  margin: 0;
+}
+.slide{
+  width: 53px;
+  height: 237px;
+  position: fixed;
+  top: 50%;
+  margin-top: -126px;
+  background:  whitesmoke;
+  //background: rgba(0,0,0,0.5);
+  //background-color: rgba(255,255,255,0.5)!important;
+  //background-color: #fff;filter:Alpha(opacity=50);
+  right:9px;
+  border-radius: 7px 7px 7px 7px;
+   z-index: 999;
+  //opacity: 0;
+  display: block;
+  //height:0;
+  // overflow: hidden;
+  visibility: hidden;
+  //width: 0px;
+  //overflow: hidden;
+}
+.slide ul.icon{
+  //display: none;
+  //background: rgba(0,0,0,0.5);
+  //position: absolute;
+}
+.slide ul{
+  //position: absolute;
+  list-style: none;
+  background-color: #f0f2f5;
+  //visibility: hidden;
+  border-radius: 7px 7px 7px 7px;
+}
+.slide .icon li.qq{
+visibility: visible;
+  //position: absolute;
+  width: 54px;
+  height: 55px;
+  background: url(img/qq_n.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+  border-radius: 7px;
+opacity: 1;
+}
+.slide .icon li.tel{
+  //position: absolute;
+  visibility: visible;
+  width: 54px;
+  height: 55px;
+  background: url(./img/phone_n.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+  border-radius: 7px;
+}
+.slide .icon li.tel:hover{
+  width: 54px;
+  height: 55px;
+  background: url(./img/phone_s.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+}
+.slide .icon li.bu{
+  visibility: visible;
+  width: 54px;
+  height: 54px;
+  background: url(./img/opinion_n.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+  border-radius: 7px;
+}
+.slide .icon li.bu:hover{
+  width: 54px;
+  height: 54px;
+  background: url(./img/opinion_s.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+}
+.slide .icon li.qq-margin{
+  width: 54px;
+  height: 6px;
+  background-color: #f0f2f5;
+  //background: url(./img/qq_n.png) no-repeat;
+  margin-right: 10px;
+  //margin-top: 6px;
+  opacity: 0;
+
+}
+.slide .icon li.qq:hover{
+  width: 54px;
+  height: 55px;
+  background: url(./img/qq_s.png) no-repeat;
+  margin-right: 10px;
+}
+.slide .icon li.wx{
+  visibility: visible;
+  width: 54px;
+  height: 55px;
+  background: url(./img/wechat_n.png) no-repeat;
+  margin-right: 10px;
+  border-radius: 7px;
+}
+.slide .icon li.wx:hover{
+  width: 54px;
+  height: 55px;
+  background: url(./img/wechat_s.png) no-repeat;
+  margin-right: 10px;
+}
+.slide .icon .up{
+  width: 0;
+  background-position:-330px -120px ;
+}
+//.slide .icon li.qq{
+//  background-position:-385px -73px ;
+//}
+//.slide .icon li.tel{
+//  background-position:-385px -160px ;
+//}
+//.slide .icon li.wx{
+//  background-position:-385px -120px ;
+//}
+.slide .icon li.down{
+  background-position:-330px -160px ;
+}
+.slide .info{
+  visibility: visible;
+  top: 50%;
+  height: 147px;
+  position: absolute;
+  right: 100%;
+  background: #f0f2f5;
+  width: 0;
+  overflow: hidden;
+  margin-top: -73.5px;
+  transition:0.5s;
+  border-radius:4px 0 0 4px ;
+}
+.slide .info.hover{
+  width: 145px;
+
+}
+.slide .info li{
+  width: 145px;
+  color: #dcdcdc;
+  text-align: center;
+}
+.slide .info li p{
+  font-size: 1.1em;
+  line-height: 2em;
+  padding: 15px;
+  text-align: left;
+}
+.slide .info li.qq p a{
+  display: block;
+  margin-top: 12px;
+  width: 100px;
+  height: 32px;
+  line-height: 32px;
+  color: #00DFB9;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid #00DFB9;
+  border-radius: 5px;
+}
+.slide .info li.qq p a:hover{
+  color: #FFFFFF;
+  border: none;
+  background: #00E0DB;
+}
+.slide .info li div.img{
+  height: 100%;
+  background: #DEFFF9;
+  margin: 15px;
+}
+.slide .info li div.img img{
+  width: 100%;
+  height: 100%;
+}
+/*控制菜单的按钮*/
+.index_cy{
+  width: 54px;
+  height: 55px;
+  background: url(./img/top_n.png) no-repeat;
+  position: fixed;
+  right: 0;
+  top: 50%;
+  margin-right: 8px;
+  margin-top: 170px;
+  background-position: 0px 0px;
+  cursor: pointer;
+  z-index: 999;
+}
+.index_cy2{
+  width: 54px;
+  height: 55px;
+  background: url(./img/top_s.png) no-repeat;
+  position: fixed;
+  right: 0;
+  top: 50%;
+  margin-top: 170px;
+  margin-right: 8px;
+  background-position: 0px 0px;
+  cursor: pointer;
+  z-index: 999;
+}
+
+/*自适应 当屏小于1050时隐藏*/
+@media screen and (max-width: 500px) {
+  .slide{
+    display: none;
+  }
+  #btn{
+    display: none;
+  }
+
+}

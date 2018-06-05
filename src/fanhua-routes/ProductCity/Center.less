@@ -1,0 +1,103 @@
+.text .log{
+  padding:0;
+width:100% !important;
+  font-size: 1rem !important;
+}
+.text{
+  position: relative;
+  margin-top:8px;
+}
+.text .items{
+  width:50%;
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+}
+.text .dun{
+  background: -webkit-linear-gradient(left, #1f8bc5 , blue); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(right, #1f8bc5, blue); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(right,#1f8bc5, blue); /* Firefox 3.6 - 15 */
+  background: linear-gradient(to right,  blue, #1f8bc5); /* 标准的语法 */
+  border-radius:3px;
+
+}
+.text .dun:hover{
+  animation: myfirst 5s;
+  -moz-animation: myfirst 5s;	/* Firefox */
+  -webkit-animation: myfirst 5s;	/* Safari 和 Chrome */
+  -o-animation: myfirst 5s;
+}
+.text .lian{
+  background: -webkit-linear-gradient(left, white , #bac5ca); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(right, white, #bac5ca); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(right,white, #bac5ca); /* Firefox 3.6 - 15 */
+  background: linear-gradient(to right, white, #bac5ca); /* 标准的语法 */
+  border-radius:3px;
+}
+.text .lian:hover{
+  animation: myfirst 5s;
+  -moz-animation: myfirst 5s;	/* Firefox */
+  -webkit-animation: myfirst 5s;	/* Safari 和 Chrome */
+  -o-animation: myfirst 5s;
+}
+.text .yuan{
+  background: -webkit-linear-gradient(left, snow , whitesmoke); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(right,snow, whitesmoke); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(right,snow,whitesmoke); /* Firefox 3.6 - 15 */
+  background: linear-gradient(to right,snow,  whitesmoke); /* 标准的语法 */
+  border-radius:5px;
+
+}
+.text .yuan:hover{
+  animation: myfirst 5s;
+  -moz-animation: myfirst 5s;	/* Firefox */
+  -webkit-animation: myfirst 5s;	/* Safari 和 Chrome */
+  -o-animation: myfirst 3s;
+}
+
+.text .shadow{
+  //border:1px solid blue;
+  box-shadow: darkgrey 3px 3px 30px 3px ;//边框阴影
+  border-radius:3px;
+}
+
+ .text .dance:hover{
+   transform:rotateX(180deg);
+
+}
+
+@keyframes myfirst
+{
+  from {background: white;}
+  to {background: black;}
+
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+  from {background: white;}
+  to {background: black;}
+}
+
+@-webkit-keyframes myfirst /* Safari 和 Chrome */
+{
+  from {background: white;}
+  to {background: black;}
+}
+
+@-o-keyframes myfirst /* Opera */
+{
+  from {background: white;}
+  to {background: black;}
+}
+.container{
+  width:100%;
+  height:176px;
+  background-color: #BABABA;
+}
+ .text .dun1{
+   height:358px;
+   width:176px;
+   background-image: url("./img/index_bg_1.png");
+
+ }

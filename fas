@@ -1,0 +1,313 @@
+[33mcommit 1889127f2c9214be3cbea8bcb4d10eeda00a8d56[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Merge: 5975395 f47a217
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Fri Apr 13 18:28:17 2018 +0800
+
+    111
+
+[33mcommit 597539568cc14e53ddac5c2b3f8e2892ddad184b[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Fri Apr 13 17:56:56 2018 +0800
+
+    production
+
+[33mcommit f47a21725316f5230f7d3f819a9d6a55062e5fb8[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: zmp <896153749@qq.com>
+Date:   Fri Apr 13 17:36:43 2018 +0800
+
+    场站
+
+[33mcommit be93fbff1fe6259501c1b5f6f08fcbfd385330a9[m
+Author: zmp <896153749@qq.com>
+Date:   Fri Apr 13 17:14:40 2018 +0800
+
+    场站的列表
+
+[33mcommit f7b58e3ad911f74ecd6fbe5ed285e24343ec8598[m
+Author: zmp <896153749@qq.com>
+Date:   Fri Apr 13 09:49:04 2018 +0800
+
+    menu key值的改变
+
+[33mcommit 9ffa9f4101b0308158bfeb39d39ee93605856d1d[m
+Author: zmp <896153749@qq.com>
+Date:   Fri Apr 13 09:34:26 2018 +0800
+
+    计划列表
+
+[33mcommit afcd64263a2c572b003ae4da9b236d26244bce9f[m
+Merge: 65826ec 5f5ee3f
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 18:27:37 2018 +0800
+
+    Merge branch 'yg' into develop
+
+[33mcommit 5f5ee3f11aa1a5271a79ae4b70980b3f5c51d867[m
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 18:27:15 2018 +0800
+
+    员工管理
+
+[33mcommit 65826ec6c50c845f553f02e3ccd53e4a1c154c52[m
+Merge: 3b0577b d17df6f
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Thu Apr 12 15:43:27 2018 +0800
+
+    Merge branch 'develop' of git.zhiqi.cn:htf/edms-web into develop
+
+[33mcommit d17df6f83f0e0402cf7ea4af9639e20ca6685f08[m
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 15:42:39 2018 +0800
+
+    'employee'
+
+[33mcommit 3b0577b42b52c2e810b6b583308122b2e3762673[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Thu Apr 12 15:33:25 2018 +0800
+
+    property
+
+[33mcommit 4df7f0efa3e71e53285bd264e78fa06140be56ca[m
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 15:08:01 2018 +0800
+
+    计划列表编辑和新增
+
+[33mcommit 4300c6213ed36c15c5b634249e4b4f7ff54caee0[m
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 13:42:21 2018 +0800
+
+    计划列表编辑和新增
+
+[33mcommit bbf45805d2274de43d5f2c4bfebd72ee65203425[m
+Author: zmp <896153749@qq.com>
+Date:   Thu Apr 12 13:22:23 2018 +0800
+
+    计划列表编辑和新增
+
+[33mcommit f22d58ab582d6b56ce41dfdfd2b4a2d83af287b1[m
+Merge: 709e533 f1245a2
+Author: zmp <896153749@qq.com>
+Date:   Wed Apr 11 14:54:46 2018 +0800
+
+    Merge branch 'mss' into develop
+    
+    # Conflicts:
+    #       src/utils/RequireUtils.js
+
+[33mcommit f1245a2de7cc1568dcf7edc6da25fbeead7be0bf[m
+Author: zmp <896153749@qq.com>
+Date:   Wed Apr 11 14:54:12 2018 +0800
+
+    计划列表启用和终止按钮
+
+[33mcommit 709e5337cc86e27bf944c71ca793c13c8b11d15a[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Wed Apr 11 11:22:02 2018 +0800
+
+    hulue
+
+[33mcommit d872cecc54ff7147556430bca1f5e98e623c749d[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Wed Apr 11 11:18:38 2018 +0800
+
+    hulue
+
+[33mcommit 15f66e49b9a9ce7b64bdf19194c154e984b8b188[m
+Merge: f4775dc dbc47c5
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Wed Apr 11 11:10:21 2018 +0800
+
+    chongtu
+
+[33mcommit f4775dc8b5a48de1b2e30425c20c444c9d6bca1b[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Wed Apr 11 10:56:17 2018 +0800
+
+    edit-address
+
+[33mcommit be3a5180f1ff78d6dae620f7af4ada4e9735ba8a[m
+Merge: d90a81b 06f75b4
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Wed Apr 11 10:54:45 2018 +0800
+
+    address
+
+[33mcommit dbc47c5c9b3788c251385b233d87682afb3f171a[m
+Author: zmp <896153749@qq.com>
+Date:   Tue Apr 10 15:06:23 2018 +0800
+
+    计划列表启用和终止按钮
+
+[33mcommit e224474f5c6f1903b382960ddf5fb3e40a3c81ac[m
+Author: zmp <896153749@qq.com>
+Date:   Tue Apr 10 14:52:43 2018 +0800
+
+    计划列表启用和终止按钮
+
+[33mcommit 51ad8d60f1402a24309582cb01af3550988f81eb[m
+Author: zmp <896153749@qq.com>
+Date:   Tue Apr 10 10:57:24 2018 +0800
+
+    计划列表数据对接
+
+[33mcommit 99c23cce85b2d41bdf03135c63470afc73eeb1a0[m
+Author: zmp <896153749@qq.com>
+Date:   Mon Apr 9 17:09:49 2018 +0800
+
+    交易管理添加订单
+
+[33mcommit a9f77ad8b77f6b6f5b5bb52ada366750a5e84c0f[m
+Author: zmp <896153749@qq.com>
+Date:   Mon Apr 9 15:24:24 2018 +0800
+
+    商品详情
+
+[33mcommit e16755c3efae1bbfa27768e403065366a99125a6[m
+Author: zmp <896153749@qq.com>
+Date:   Mon Apr 9 13:04:28 2018 +0800
+
+    商品管理 订单列表
+
+[33mcommit 06f75b40df9bd060eb902a1aa259ad7c832c809b[m
+Author: zmp <896153749@qq.com>
+Date:   Mon Apr 9 09:08:27 2018 +0800
+
+    操作日志
+
+[33mcommit a561c5e08be2f512060b8d6a28b5ea9b1a5f0671[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 20:47:54 2018 +0800
+
+    结算单列表
+
+[33mcommit fa6c494175399ebbf3435e6ba05dfbbb2a0e5c9d[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 20:10:04 2018 +0800
+
+    出车单列表 物流管理运单列表
+
+[33mcommit d90a81bf1366659571a0ab056cb2bc6f1f108ee2[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 17:43:54 2018 +0800
+
+    chang login
+
+[33mcommit 6141198866c8ccec384119f8ca55aacb7a21f255[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 15:59:25 2018 +0800
+
+    账务添加账单列表和业务业务统计列表
+
+[33mcommit 752bfb6c141eab6a3e2701d30a149fa78379c780[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 14:50:49 2018 +0800
+
+    供应商查看详情和客户查看详情
+
+[33mcommit 84a0959ba539a0db1a262e53d589fdfd2b3a8267[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 13:28:40 2018 +0800
+
+    公司信息修改
+
+[33mcommit f365a40d8d3d72bb5b8e4d1493cd6ccf8e360bee[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 10:52:58 2018 +0800
+
+    公司信息修改
+
+[33mcommit eb4183bf36473de93b488e1c82ea47b6a3e367ce[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 10:19:37 2018 +0800
+
+    zmp idea
+
+[33mcommit 86d09cf8f1b283f2f30d882640437b5262740fa8[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 10:14:59 2018 +0800
+
+    htf
+
+[33mcommit f9d4764d88f7c4351a55beb663afefe41ad792af[m
+Merge: c80886d 356ed03
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 10:14:32 2018 +0800
+
+    Merge branch 'master' of git.zhiqi.cn:htf/edms-web
+
+[33mcommit c80886df763ed417181894a9ae50e1d900429cf9[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 10:00:07 2018 +0800
+
+    in
+
+[33mcommit 356ed03753bdfb4fd78a90cfd1d91688ef7b3f20[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 09:47:29 2018 +0800
+
+    test
+
+[33mcommit 65ba2540d81c1693cff5b33223c112d279fcb0b2[m
+Merge: 8d57645 f42879a
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 09:38:14 2018 +0800
+
+    idea
+
+[33mcommit f42879a34ef2e8dd71dd7190737cee24394e09bf[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 09:34:37 2018 +0800
+
+    idea hulue
+
+[33mcommit 8d57645debf4eab98d62e055d197ec17fe8bb4a9[m
+Merge: f0b3e8e 3609afa
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 09:28:31 2018 +0800
+
+    chongtu
+
+[33mcommit f0b3e8ebc76859d19951abb94e27e896bf4afaf4[m
+Author: zmp <896153749@qq.com>
+Date:   Sun Apr 8 09:21:35 2018 +0800
+
+    zmp
+
+[33mcommit 3609afaf29530ba4a5ec0600dade0d15e8d0984b[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Sun Apr 8 09:09:43 2018 +0800
+
+    homepage changed
+
+[33mcommit 3bd324199f868344737d2d3bd79170011e921ae0[m
+Author: zmp <896153749@qq.com>
+Date:   Wed Apr 4 20:01:04 2018 +0800
+
+    init
+
+[33mcommit bd42a3f452efcf9f76bb0bfdb2626a4e26ed5a1b[m
+Author: zmp <896153749@qq.com>
+Date:   Wed Apr 4 19:54:03 2018 +0800
+
+    公司管理
+    资产管理
+    合同管理
+
+[33mcommit a3278a131ca09a36130e4052e4959c46e2d1e5fd[m
+Author: 张美朋 <896153749@qq.com>
+Date:   Tue Apr 3 15:54:32 2018 +0800
+
+    公司管理 中的 公司信息 地址信息 开票信息 资质信息
+
+[33mcommit 570d9b757bc099440f8f0f652026beed22263023[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Mon Apr 2 12:38:25 2018 +0800
+
+    initial
+
+[33mcommit 7894ed25f8ffb66318996260e933e4564f568342[m
+Author: 韩腾飞 <hantengfei@zhiqi.cn>
+Date:   Thu Mar 29 09:58:21 2018 +0800
+
+    add README
